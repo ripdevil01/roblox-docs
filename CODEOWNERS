@@ -1,0 +1,15 @@
+*                                                           @Roblox/creator-knowledge
+
+# Transient docs-agent PR metadata (removed by docs-agent-pr.yml after PR
+# creation). Owned by @Roblox/documentation so the catch-all rule above does
+# not request @Roblox/creator-knowledge whenever the file briefly appears.
+/.pr-metadata.json                                          @Roblox/documentation
+
+/content/common/                                            @Roblox/documentation
+/content/common/localization_manifest.json                  @Roblox/creator-knowledge
+/content/en-us/                                             @Roblox/documentation
+/content/en-us/assets/education/                            @Roblox/documentation
+/content/en-us/education/                                   @Roblox/documentation
+/tools/checks/utils/allowedHttpLinks.txt                    @Roblox/creator-knowledge @Roblox/documentation
+/tools/checks/utils/do-not-machine-translate.txt            @Roblox/creator-knowledge @Roblox/documentation
+/STYLE.md                                                   @Roblox/documentation
